@@ -30,10 +30,10 @@ public class Jogo {
     }
 
     public void revelarBombas(){
-        for (int i = 0; i < elementos.length; i++) {
-            for (int j = 0; j < elementos[i].length; j++) {
-                if (elementos[i][j].isBomba){
-                    elementos[i][j].definirIcone(10);
+        for (Elemento[] elemento : elementos) {
+            for (Elemento anElemento : elemento) {
+                if (anElemento.isBomba) {
+                    anElemento.definirIcone(10);
                 }
             }
         }

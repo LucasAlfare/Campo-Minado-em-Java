@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b6cf452-5ddf-4ab6-8429-c10941865fbf" name="Default" comment="" />
+    <list default="true" id="4b6cf452-5ddf-4ab6-8429-c10941865fbf" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/main/Jogo.java" afterPath="$PROJECT_DIR$/src/com/main/Jogo.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,13 +42,14 @@
       <file leaf-file-name="Jogo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/main/Jogo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+            <state relative-caret-position="234">
+              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#171#172#0" expanded="true" />
                 <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#2368#2369#0" expanded="true" />
-                <element signature="e#2454#2455#0" expanded="true" />
+                <element signature="e#2345#2346#0" expanded="true" />
+                <element signature="e#2431#2432#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -78,8 +81,8 @@
         <option value="$PROJECT_DIR$/src/com/main/Clique.java" />
         <option value="$PROJECT_DIR$/src/com/main/Constantes.java" />
         <option value="$PROJECT_DIR$/src/com/main/TelaJogo.java" />
-        <option value="$PROJECT_DIR$/src/com/main/Jogo.java" />
         <option value="$PROJECT_DIR$/src/com/main/Elemento.java" />
+        <option value="$PROJECT_DIR$/src/com/main/Jogo.java" />
       </list>
     </option>
   </component>
@@ -283,12 +286,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533226484029</updated>
-      <workItem from="1533226498846" duration="11135000" />
+      <workItem from="1533226498846" duration="11519000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11135000" />
+    <option name="totallyTimeSpent" value="11519000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1448" height="864" extended-state="6" />
@@ -463,13 +466,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/main/Jogo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        <state relative-caret-position="234">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
             <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#2368#2369#0" expanded="true" />
-            <element signature="e#2454#2455#0" expanded="true" />
+            <element signature="e#2345#2346#0" expanded="true" />
+            <element signature="e#2431#2432#0" expanded="true" />
           </folding>
         </state>
       </provider>
